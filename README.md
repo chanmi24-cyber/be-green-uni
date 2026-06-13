@@ -104,8 +104,8 @@ src/main/java/com/green/greenuni/
 
 ## 팀원 소개 및 역할 분담
 
-| 이름 | GitHub | 담당 도메인 |
-|---|---|---|
+| 이름 | 담당 도메인 |
+|---|---|
 | [@k28sy](https://github.com/k78sy) (팀장) | 회원 / 인증 |
 | [@chanmi24](https://github.com/chanmi24-cyber) | 강의 |
 | [@JunLee Lim](https://github.com/junlee-lim) | 학과 / 수강신청 |
